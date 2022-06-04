@@ -10,11 +10,11 @@
 <p> At the moment I am finishing my master's degree in NLC "Manash Kozybayev North Kazakhstan University" in the specialty "Robotics, intelligent systems and instrumentation". I worked as an engineer at a local computer manufacturing plant. I want to try myself as a programmer, so I started studying HTML&CSS, JS. </p>
 
 <h2><b>Skills</b></h2>
-- C++
-- Matlab
-- Git
-- Photoshop
-- Mathcad
++ C++
++ Matlab
++ Git
++ Photoshop
++ Mathcad
 
 <h2><b>Code example</b></h2>
 
@@ -24,14 +24,14 @@
     }
 
 <h2><b>Work experience</b></h2>
-- From 2017 to 2019, I worked as an engineer at a computer factory.
-- From 2020 to 2021 worked in an environmental company.
++ From 2017 to 2019, I worked as an engineer at a computer factory.
++ From 2020 to 2021 worked in an environmental company.
 
 <h2><b>Education</b></h2>
-- Bachelor of Engineering and Technology, Manash Kozybayev North Kazakhstan University, Kazakhstan.
-- I am currently completing my master's degree, Manash Kozybayev North Kazakhstan University, Kazakhstan.
++ Bachelor of Engineering and Technology, Manash Kozybayev North Kazakhstan University, Kazakhstan.
++ I am currently completing my master's degree, Manash Kozybayev North Kazakhstan University, Kazakhstan.
 
 <h2><b>Languages</b></h2>
-- Kazakh (native).
-- Russian (speak fluent).
-- English (Intermediate).
++ Kazakh (native).
++ Russian (speak fluent).
++ English (Intermediate).
