@@ -1,1 +1,2 @@
-# rsschool-cv
+Link:
+https://Timzhanabergenov.github.io/rsschool-cv/cv
